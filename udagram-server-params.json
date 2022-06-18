@@ -7,10 +7,6 @@
     {  
 		"ParameterKey": "UdagramAMImage",
 		"ParameterValue": "ami-0729e439b6769d6ab"
-	},
-    {  
-		"ParameterKey": "KeyName",
-		"ParameterValue": "Halima-Udacity-Project2"
 	}
     	
 ]
