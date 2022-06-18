@@ -59,9 +59,7 @@ Resources:
           sudo apt-get install apache2 -y
           sudo systemctl start apache2.service
           echo "<h1> This is a udacity-project2 webserver by Halima Usman </h1>" > /var/www/html/index.html        
-       
       ImageId: !Ref UdagramAMImage
-      KeyName: !Ref KeyName
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t3.medium

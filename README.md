@@ -64,3 +64,6 @@ If you want to go the extra mile, set up a bastion host (jump box) to allow you 
 IMPORTANT!!!
 
 Last thing: Remember to delete your CloudFormation stack when you're done to avoid recurring charges!
+
+
+http://halim-WebAp-1E4UL5BH31DL6-1392363782.us-east-1.elb.amazonaws.com
