@@ -1,4 +1,4 @@
-# udacity-project2-cloudformation (deploying IaC)
+#cloudformation (deploying IaC)
 
 
 PROJECT INTRODUCTION
